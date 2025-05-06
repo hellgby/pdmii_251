@@ -3,7 +3,7 @@
 <h3 align="center"> Repositório para armazenar as atividades e os exercícios da matéria de Programação de Dispositivos Móveis II com o prof. Ricardo Duarte Taveira no semestre 2025.1.</h3>
 
 Controle de atividades:
-- [ ] Atividade 1
+- [X] Atividade 1
 - [ ] Atividade 2
 - [ ] Atividade 3
 - [ ] Atividade 4
