@@ -4,7 +4,7 @@
 
 Controle de atividades/avaliações:
 - [X] Atividade 1
-- [ ] Atividade 2
+- [X] Atividade 2
 - [ ] Atividade 3
 - [ ] Atividade 4
 - [ ] Atividade 5
