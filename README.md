@@ -6,8 +6,8 @@ Controle de atividades/avaliações:
 - [X] Atividade 1
 - [X] Atividade 2
 - [X] Atividade 3
-- [ ] Atividade 4
-- [ ] Atividade 5
+- [X] Atividade 4
+- [X] Atividade 5
 - [ ] Atividade 6
 - [ ] Atividade 7
 - [ ] Atividade 8
