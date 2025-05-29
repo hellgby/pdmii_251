@@ -1,4 +1,3 @@
-email_sender.dart:
 import 'package:mailer/mailer.dart';
 import 'package:mailer/smtp_server/gmail.dart';
 
